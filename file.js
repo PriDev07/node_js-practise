@@ -2,6 +2,10 @@ const fs = require("fs");
 var he1 = "What are you doing";
 var he2 = "hello checking for another file updated now";
 
+// For check no. of cpus or thread in the pc have
+// const os = require('os');
+// console.log(os.cpus().length);
+
 // For writing file
 // sync is used for synchronous call(Below is sync call)
 // fs.writeFileSync('./file/note.txt',he1);
