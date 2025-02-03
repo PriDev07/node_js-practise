@@ -1,0 +1,5 @@
+// how versoning works in nodejs
+example : 4.18.3
+last part - 3 - Minor fixes(Optional)
+middle part : 18 - Recommended bug fix (security fix)
+first part : 4 - Major/Breaking update 
