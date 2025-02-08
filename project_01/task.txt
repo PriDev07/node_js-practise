@@ -1,13 +1,18 @@
 // Creating REST API
-GET /users = HTML document render
-Get /api/users = List all users json
+
+**GET /users = HTML document render - Done
+
+**Get /api/users = List all users json - Done
 
 Dynamic path parameters
 GET /api/users/:id
 :id - dynamic
-GET /api/users/1 - get the user with id 1
+
+**GET /api/users/1 - get the user with id 1 - Done
 
 
-POST /api/users - add user
-PATCH /api/users/1 - update user with id 1
+**POST /api/users - add user
+
+**PATCH /api/users/1 - update user with id 1
+
 DELETE /api/users/1 - Delete the user with data 1 
